@@ -1,3 +1,4 @@
+
 import '../tailwind.css';
 import { WagmiConfig, createClient, chain, configureChains } from 'wagmi';
 import { publicProvider } from 'wagmi/providers/public';
